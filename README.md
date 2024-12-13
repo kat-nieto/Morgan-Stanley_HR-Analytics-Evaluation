@@ -8,7 +8,7 @@ Like many companies, Company ABC is finding it difficult to navigate the long-te
 
 ## Dashboard Link:
 
-https://app.powerbi.com/view?r=eyJrIjoiYzBkOTU5MTUtOTAwMy00NTc3LTk4YWUtNTM4OTBiYWY1ZDExIiwidCI6IjZhNDEyZWE2LWYxYWUtNDhmMi1iZTBiLTk1ZWNlMmUxNGRjNCIsImMiOjl9
+https://app.powerbi.com/view?r=eyJrIjoiZDM4NjRjZWQtZmIwMy00YzAwLWJiMDUtZTU3ZGZhYzgyMjE3IiwidCI6IjZhNDEyZWE2LWYxYWUtNDhmMi1iZTBiLTk1ZWNlMmUxNGRjNCIsImMiOjl9
 
 ## The Problem:
 
@@ -33,6 +33,10 @@ White had the highest Voluntary Attrition at 9,077, followed by Asian, Black, an
 
 ## Snapshop of Dashboard (Power BI Service)
 
-![Morgan Stanley](https://github.com/user-attachments/assets/346da306-95e7-4c52-8a10-3b524d429751)
+![Morgan Stanley](https://github.com/user-attachments/assets/cfc17b74-f73c-4bcd-b515-e024c31b273b)
+
+## Snapshop of Tables
+
+![Morgan Stanley - tables](https://github.com/user-attachments/assets/9dd5374e-f586-4949-aa71-69c2b3a55b3b)
 
 
